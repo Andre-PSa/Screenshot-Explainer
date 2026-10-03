@@ -1,0 +1,10 @@
+# Captured crops - these are pictures of your screen, keep them out of git
+screenshots/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+*.log
